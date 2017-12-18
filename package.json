@@ -1,6 +1,9 @@
 {
   "name": "shawwn-vue-compiler",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hash-sum": "^1.0.2"
+  }
 }
